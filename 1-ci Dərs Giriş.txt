@@ -1,0 +1,58 @@
+ EBAY
+1 ci dərs giriş
+
+1.ci ebay hesabi acmaq ve 2 hefte ebayin guvenini qazanmaq lazim.
+2.ci ölkeni abş etmek lazim.
+3.cu ebayin guvenini qazanmaq ucun ebayda vaxt kecirmek lazim.
+4.cu gun ərzində 1 saat  15 məhsulu favoriyə əlavə etmək lazım və bunu 14 gun ardıcıl etmək lazım.
+5.ci ebaaya yeni başlayanda sell və my sell hissəsinə girməyin.
+6.cı neleri sata bilərik nələri sata bilmərik:
+
+1 elektronika mehsulları sata bilmərik
+2 dünyaca marka olan məhsulları satmaq olmaz belə məhsullar vero məhsullar adlanır 
+və bu məhsullar satmaq olmaz
+3 paltar satmaq ilk 6 ayda satmaq risklidir 
+4 aksesuarlar,saatlar çantalar satmaq olar
+5 (health) hissəində satış etməyin
+6 (home garden) mehsulları satmaq olar
+7 bıçaq və qırılan qablar satmayın
+8 lampuşqa satmayın
+9 (toys) bütün məhsulları satmaq olar vero məhsulları çıxmaq sərti ilə
+10 (pets) katuqoryasındakı məhsulları satmaq olar
+11 maye məhsullları satmayın
+12 yanıcı və patlayıcı məhsullar satmayın
+
+7.ci Vero məhsullar nədir.vero məhsullar müəllif hüquqları deməkdir və bu məhsulları icazə almadan sata bilməssiniz
+8.ci məhsul alacağımız saytlar aliExpress,banggood burdan məhsul almaq olar
+9.cu ebayi bir notbuk və bir vifiden istifadə edərək daxil olun və vpn ilə ebayadaxil olmayın
+10.cu məhsul analizi:
+
+1 (karqo varmı) bunun üçün shipping bölməsinə daxil olun  ( FEDEX,USP,USPS)
+2 məhsul ebayda olub olmadığını yoxlayın
+3 məhsula daxil olub satılıb satılmadığını yoxlayın. satısı çox olan məhsul satın
+4 məhsulun qiymətinə diqqət edin
+5 shipito.com saytından adres almaq
+6 ebayfeescalculator.com buradan qazancı hesablayacaz
+
+1 sold price-satış qiyməti 
+2 shipping charged-çatdırılma ödənişlidir
+3 İtem cost-maya dəyəri
+4 shipping cost-karqo pulu
+5 No.of.orders-neçədənə məhsul alırsan
+6 ebay store-ebayda magaza paketləri (No seçmək)
+7 seller level-satış pilləsi (above Standard)
+8 Promoted ad rate-reklam vergisi
+
+11.ci məhsulu kayd etmək (Google cedvel)
+
+1 ebay məhsul linki (rəqib linki)
+2 Qiymət (satış)
+3 Rəqib sayı
+4 Satış sayı
+5 tədarikçinin linki
+6 Məhsulun qiyməti (alış)
+7 Stok sayı
+8 Kar majı (qazanc faizi)
+9 kar (qazanc)
+10 not 
+
